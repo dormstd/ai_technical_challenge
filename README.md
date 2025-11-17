@@ -205,6 +205,7 @@ And llama-index because I think it is more mature in terms of RAG than the other
 For example, the subquestion query engine used in this example (because I think that kind of questions that this chatbot will get will benefit from this subquestion generation).
 
 ## Pending work
+- Tests
 - Make use of the keywords extracted when running the queries.
 - Industrialize the deployment of the solution (Docker, K8s, etc)
 - Add metrics and monitoring
